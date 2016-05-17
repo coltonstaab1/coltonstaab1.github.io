@@ -1,0 +1,21 @@
+# Site settings
+title: Colton's coding adventure
+header-img: img/home-bg.png
+email: colton.staab@gmail.com
+copyright_name: coltonstaab1
+description: > # this means to ignore newlines until "baseurl:"
+  Working through the Learn.co curriculum
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  coltonstaab1
+learn_profile: coltonstaab1
+email_username: colton.staab@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
