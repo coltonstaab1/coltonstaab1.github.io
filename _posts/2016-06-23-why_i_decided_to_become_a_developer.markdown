@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I decided to become a developer"
-date:   2016-06-23 20:44:07 +0000
+date:   2016-06-23 16:44:07 -0400
 ---
 
 
