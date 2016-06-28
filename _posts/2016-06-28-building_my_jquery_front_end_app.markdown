@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building my jQuery front end app"
-date:   2016-06-28 20:29:23 +0000
+date:   2016-06-28 16:29:23 -0400
 ---
 
 
