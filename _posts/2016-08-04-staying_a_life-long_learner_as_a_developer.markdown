@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Staying a life-long learner as a developer"
-date:   2016-08-04 18:24:43 +0000
+date:   2016-08-04 14:24:43 -0400
 ---
 
 
